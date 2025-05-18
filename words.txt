@@ -1,0 +1,8 @@
+apple
+banana
+grapes
+pineapple
+lemon
+pear
+watermelon
+avocado
